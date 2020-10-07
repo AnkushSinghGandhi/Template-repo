@@ -1,1 +1,1 @@
-[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template/main/readme_header.png)](https://ankushsinghgandhi.github.io)
+[![MastHead](https://raw.githubusercontent.com/ankushsinghgandhi/template/main/header.jpg)](https://ankushsinghgandhi.github.io)
