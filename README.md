@@ -21,6 +21,9 @@
     <a href="https://www.hackerrank.com/ankushsgandhi">
     <img src="https://img.shields.io/badge/-HackerRank-green?style=flat-square&logo=Hackerrank&logoColor=white"/>
   </a>
+    <a href="https://www.hackerearth.com/@bhanusinghank">
+    <img src="https://img.shields.io/badge/-Hackerearth-purple?style=flat-square&logo=Hackerearth&logoColor=white"/>
+  </a>
 </p>
 
 
