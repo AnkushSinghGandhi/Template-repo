@@ -27,7 +27,7 @@
 </p>
 
 
-## The sharing of the PPT and Project Report costs ₹1000 ($13.5)
+## The sharing of the PPT and Project Report costs ₹1000 ($14)
 If interested :email: ankushsinghgandhi@gmail.com
 
 ## :point_down: Support me here!
